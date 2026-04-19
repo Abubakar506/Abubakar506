@@ -8,6 +8,11 @@ I design and build **production-grade IoT systems** using Tuya + AI/ML — focus
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![IoT](https://img.shields.io/badge/IoT-TuyaCloud-green)
 ![AI](https://img.shields.io/badge/AI-ML-orange)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abubakar506/Abubakar506/8fef8647a123511cfad24a4cef940ef03aca7afd/banner.jpeg" alt="banner"/>
+</p>
+
 ## What I Actually Do
 
 * Build **end-to-end IoT systems** (device → cloud → control logic → dashboard)
